@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-Addierer/01-Addierer.iml" filepath="$PROJECT_DIR$/01-Addierer/01-Addierer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-SekundenMonat/02-SekundenMonat.iml" filepath="$PROJECT_DIR$/02-SekundenMonat/02-SekundenMonat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Flussdiagramm/03-Flussdiagramm.iml" filepath="$PROJECT_DIR$/03-Flussdiagramm/03-Flussdiagramm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Monatsnamen/04-Monatsnamen.iml" filepath="$PROJECT_DIR$/04-Monatsnamen/04-Monatsnamen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-Flussdiagramm_2/05-Flussdiagramm_2.iml" filepath="$PROJECT_DIR$/05-Flussdiagramm_2/05-Flussdiagramm_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-kleines1x1/06-kleines1x1.iml" filepath="$PROJECT_DIR$/06-kleines1x1/06-kleines1x1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-TeilbareZahlen/07-TeilbareZahlen.iml" filepath="$PROJECT_DIR$/07-TeilbareZahlen/07-TeilbareZahlen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-GanzzahlBinaer/08-GanzzahlBinaer.iml" filepath="$PROJECT_DIR$/08-GanzzahlBinaer/08-GanzzahlBinaer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-QuersummeRechnen/09-QuersummeRechnen.iml" filepath="$PROJECT_DIR$/09-QuersummeRechnen/09-QuersummeRechnen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabensammlung.iml" filepath="$PROJECT_DIR$/Aufgabensammlung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+    </modules>
+  </component>
+</project>
