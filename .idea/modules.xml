@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/08-GanzzahlBinaer/08-GanzzahlBinaer.iml" filepath="$PROJECT_DIR$/08-GanzzahlBinaer/08-GanzzahlBinaer.iml" />
       <module fileurl="file://$PROJECT_DIR$/09-QuersummeRechnen/09-QuersummeRechnen.iml" filepath="$PROJECT_DIR$/09-QuersummeRechnen/09-QuersummeRechnen.iml" />
       <module fileurl="file://$PROJECT_DIR$/10-QuersummeTeilbar/10-QuersummeTeilbar.iml" filepath="$PROJECT_DIR$/10-QuersummeTeilbar/10-QuersummeTeilbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-DiagonaleLinie/11-DiagonaleLinie.iml" filepath="$PROJECT_DIR$/11-DiagonaleLinie/11-DiagonaleLinie.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aufgabensammlung.iml" filepath="$PROJECT_DIR$/Aufgabensammlung.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
     </modules>

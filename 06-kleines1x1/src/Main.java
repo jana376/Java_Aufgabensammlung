@@ -1,14 +1,14 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Kleines 1x1");
-        // Äußere Schleife für die erste Zahl (1 bis 10)
-        for (int i = 1;
-             i <= 10; i++) {
+        // Äussere Schleife für die erste Zahl (1 bis 10)
+        for (int a  = 1;
+             a <= 10; a++) {
             // Innere Schleife für die zweite Zahl (1 bis 10)
-            for (int j = 1;
-                 j <= 10; j++) {
+            for (int b = 1;
+                 b <= 10; b++) {
                 // Ausgabe des Produkts von i * j
-                System.out.print((i * j) + "\t");
+                System.out.print((a * b) + "\t");
             }
             // Zeilenumbruch nach jeder Reihe (nach jeder Zeile von i)
             System.out.println();

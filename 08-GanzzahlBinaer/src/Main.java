@@ -19,7 +19,7 @@ public class Main {
                     System.out.println(zahl + " im binären Format: " + binaer);
                 }
 
-                // Scanner schließen
+                // Scanner schliessen
                 scanner.close();
             }
         }
