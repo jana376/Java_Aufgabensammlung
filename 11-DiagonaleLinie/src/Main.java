@@ -32,20 +32,4 @@ i++;
     }
 }
 
-       /* int zahl = scanner.nextInt();
-        int row;
-        int col;
-
-        for (row = 1; row <= zahl; row++)
-            for (col = 1; col <= zahl; col++) {
-
-                if (row == col) {
-                    System.out.print(" ");
-                } else {
-                    System.out.print("*");
-            }
-        }
-    }
-}
-*/
 
